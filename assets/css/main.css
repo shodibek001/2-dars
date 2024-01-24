@@ -1,0 +1,306 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #00FFA34F;
+}
+
+.container {
+    width: 1440px;
+    height: 1200px;
+    margin: 0px auto;
+    margin-left: 300px;
+
+
+
+}
+
+.box {
+    width: 400px;
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-left: -250px;
+    margin-top: 200px;
+}
+
+.qqqqqq {
+    width: 800px;
+    height: 330px;
+    background-color: blue;
+}
+
+.dsdsd {
+    width: 800px;
+    height: 330px;
+    background-color: white;
+}
+
+.swaf {
+    width: 800px;
+    height: 330px;
+    background-color: rgb(255, 0, 0);
+}
+
+
+
+.row {
+    width: 400px;
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-left: 250px;
+    margin-top: -80px;
+}
+
+.civfebvfe {
+    width: 800px;
+    height: 330px;
+    background-color: green;
+}
+
+.eferag {
+    width: 800px;
+    height: 330px;
+    background-color: white;
+}
+
+.ewrege {
+    width: 800px;
+    height: 330px;
+    background-color: red;
+}
+
+
+.salom {
+    width: 400px;
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 700px;
+    margin-top: -230px;
+}
+
+.dchukjaveve {
+    width: 400px;
+    height: 130px;
+    background-color: black;
+}
+
+.fcgqwrfgtge {
+    width: 400px;
+    height: 120px;
+    background-color: red;
+}
+
+.ssseff {
+    width: 400px;
+    height: 130px;
+    background-color: yellow;
+}
+
+
+
+
+.hello {
+    width: 400px;
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 1170px;
+    margin-top: -50px;
+}
+
+.dhjcveb {
+    width: 400px;
+    height: 100px;
+    background-color: white;
+}
+
+.dvggsbr {
+    width: 400px;
+    height: 100px;
+    background-color: rgb(7, 175, 122);
+}
+
+.vccggg {
+    width: 400px;
+    height: 100px;
+    background-color: red;
+}
+
+
+.world {
+    width: 400px;
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-left: -250px;
+    margin-top: 500px;
+}
+
+.werwrr {
+
+    width: 400px;
+    height: 300px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    grid-template-areas: 1fr 1fr 1fr;
+    margin-left: 10px;
+    margin-top: -100px;
+    background: linear-gradient(145deg, rgb(12, 213, 12) 40%, yellow 40%, yellow 60%, red 40%)
+}
+
+.utgfvwcevg {
+    border: 5px solid rgb(212, 212, 18);
+    width: 400px;
+    height: 300px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    grid-template-areas: 1fr 1fr 1fr;
+    margin-left: 180px;
+    margin-top: -240px;
+    background: linear-gradient(37deg, rgb(12, 213, 12) 50%, rgb(255, 238, 0) 40%)
+}
+
+.icon {
+    width: 169.077px;
+    height: 180.902px;
+    background-image: url("../images/pentagram.png");
+}
+
+
+.chbkiceaf {
+    width: 400px;
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+    margin-left: -180px;
+    margin-top: 260px;
+}
+
+.vvfbueiveh {
+    width: 400px;
+    height: 300px;
+    background-color: red;
+    margin-left: 830px;
+    margin-top: -560px;
+}
+
+.regteg {
+    width: 400px;
+    height: 50px;
+    background-color: yellow;
+    margin-left: 830px;
+    margin-top: -170px;
+}
+
+.gsrgffedtg {
+    width: 50px;
+    height: 300px;
+    background-color: yellow;
+    margin-left: 945px;
+    margin-top: -180px;
+}
+
+
+
+.edgjqfverfer {
+    width: 400px;
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 1150px;
+    margin-top: -70px;
+}
+
+.csguwr {
+    width: 400px;
+    height: 100px;
+    background-color: rgb(0, 0, 255);
+}
+
+.freqg {
+    width: 400px;
+    height: 100px;
+    background-color: black;
+}
+
+.reerre {
+    width: 400px;
+    height: 100px;
+    background-color: white;
+
+}
+
+
+
+.uerueurwre {
+    width: 400px;
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 500px;
+    margin-top: 300px;
+}
+
+.oewiwq {
+    width: 500px;
+    height: 400px;
+    background-color: blue;
+}
+
+.dsvf {
+
+    width: 500px;
+    height: 45.555px;
+    background-color: red;
+    margin-top: -200px;
+
+}
+
+.sdsd {
+    width: 500px;
+    height: 45.555px;
+    background-color: white;
+    margin-top: -90px;
+}
+
+.oewddiwq {
+    width: 500px;
+    height: 45.555px;
+    background-color: white;
+    margin-top: 45px;
+}
+
+.ddddd {
+    width: 64.116px;
+    height: 71.202px;
+    flex-shrink: 0;
+    background-image: url("../images/Polígono-1-copia.png");
+    margin-top: -285px;
+    margin-left: 70px;
+
+}
+.wquhifwer{
+    width: 64.116px;
+    height: 71.202px;
+    background-image: url("../images/Polígono-1-copia.png");
+    margin-top: -13px;
+    margin-left: 180px;
+}
+.dwufekw{
+    width: 64.116px;
+    height: 71.202px;
+    background-image: url("../images/Polígono-1-copia.png");
+    margin-top: 173px;
+    margin-left: 180px;
+}
